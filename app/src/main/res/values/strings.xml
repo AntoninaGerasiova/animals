@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="action_about">About</string>
+    <string name="dialog_title">About</string>
+    <string name="dialog_text">Author: Antonina Gerasiova\nSound: Polina Kondranina\nGraphics: Freepik.com</string>
+
+</resources>
